@@ -1,3 +1,5 @@
+Приложение, считающее сумму чисел, введенных через пробел.
+
 ## Главное меню
 <p align="left">
   <img src="./imgs/main.png" width="30%" height="30%" title="hover text">
