@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  HW1
+//  HW_1
 //
-//  Created by Nikita Shamaev on 23.02.2021.
+//  Created by Nikita Shamaev on 02.03.2021.
 //
 
 import UIKit
@@ -18,12 +18,11 @@ class ViewController: UIViewController {
     }
 
     @IBAction func showUserScreen(_ sender: UIButton) {
-        
+        InsertNumbersLabel.text = "Введите числа"
         guard
             let stringInsertedNumbers = textField.text,
             stringInsertedNumbers.count > 0
         else {
-            InsertNumbersLabel.text = "Введите числа"
             InsertNumbersLabel.textColor = .red
             return
         }
@@ -43,4 +42,3 @@ class ViewController: UIViewController {
     }
     
 }
-

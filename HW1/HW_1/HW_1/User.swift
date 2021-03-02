@@ -1,6 +1,6 @@
 //
 //  User.swift
-//  HW1
+//  HW_1
 //
 //  Created by Nikita Shamaev on 02.03.2021.
 //

@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  HW1
+//  HW_1
 //
-//  Created by Nikita Shamaev on 23.02.2021.
+//  Created by Nikita Shamaev on 02.03.2021.
 //
 
 import UIKit
